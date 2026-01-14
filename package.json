@@ -1,7 +1,7 @@
 {
   "name": "gallery",
-  "private": true,
   "homepage": "https://jeetmadhvani.github.io/gallery-test",
+  "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
